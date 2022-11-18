@@ -1,0 +1,4 @@
+baseURL = 'https://semitext.xyz/'
+languageCode = 'en-us'
+title = 'music, zines, flow'
+theme = "risotto"
