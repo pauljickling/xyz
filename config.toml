@@ -1,4 +1,4 @@
-baseURL = 'https://pauljickling.github.io/xyz'
+baseURL = 'https://semitext.xyz'
 languageCode = 'en-us'
 title = 'music, zines, flow'
 theme = "risotto"
