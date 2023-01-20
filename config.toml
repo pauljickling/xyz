@@ -1,4 +1,28 @@
 baseURL = 'https://semitext.xyz'
 languageCode = 'en-us'
 title = 'music, zines, flow'
-theme = "risotto"
+theme = "terminal"
+
+[params]
+
+  themeColor = "pink"
+  showMenuItems = 2
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "semitext.xyz"
+    subtitle = "music, zines, flow"
+    [languages.en.params.logo]
+      logoText = "semitext.xyz"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "0x12f"
+        name = "0x12f"
+        url = "https://0x12f.bandcamp.com"
+      [[languages.en.menu.main]]
+        identifier = "zines"
+        name = "zines"
+        url = "/zines"
