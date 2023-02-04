@@ -3,7 +3,6 @@ languageCode = 'en-us'
 title = 'music, zines, flow'
 theme = "terminal-cookbook"
 
-custom_css = ["static/main.css"]
-
 [params]
 noindex = false
+custom_css = ["main.css"]
