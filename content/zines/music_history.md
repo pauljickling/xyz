@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "Music Autobiography"
 summary: "my history of playing music"
 date: 2023-07-28
 draft: false
