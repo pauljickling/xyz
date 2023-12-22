@@ -1,0 +1,21 @@
+title: semitext.xyz
+
+description: ""
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://semitext.xyz" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+defaults:
+  -scope:
+    path: "assets/img"
+  values:
+    image: true
