@@ -28,5 +28,7 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
-# Dependency update
+# Dependency updates
 gem "rexml", ">= 3.2.5"
+
+spec.add_dependency "rake", ">= 12.3.3"
