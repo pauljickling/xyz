@@ -29,6 +29,6 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Dependency updates
-gem "rexml", ">= 3.27"
+gem "rexml", ">= 3.33"
 
 spec.add_dependency "rake", ">= 12.3.3"
